@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Visão Geral
+##  Visão Geral
 Aplicação desenvolvida com foco em alta conversão e agilidade de atendimento para restaurantes, hamburguerias e confeitarias de pequeno a médio porte:
 - **Experiência do Cliente:** Navegação fluida, filtros por categoria, personalização de ingredientes e envio do pedido estruturado diretamente no WhatsApp.
 - **Experiência do Administrador:** Painel de gestão protegido por senha para cadastrar novos pratos, alterar preços, atualizar descrições e subir imagens otimizadas sem precisar mexer no código.
@@ -19,16 +19,16 @@ Aplicação desenvolvida com foco em alta conversão e agilidade de atendimento 
 
 ---
 
-## ⚡ Funcionalidades em Destaque
+##  Funcionalidades em Destaque
 
-### 🛍️ Para o Cliente
+###  Para o Cliente
 - **Catálogo Organizado por Categorias:** Entradas, Massas, Bebidas e Sobremesas.
 - **Alternância de Visualização:** Modo Grade (Cards visuais) e Modo Lista (rápida navegação).
 - **Filtros e Tags:** Identificação visual para *Mais Pedidos*, *Vegetariano*, *Sem Glúten* e *Sem Lactose*.
 - **Modal de Personalização:** Seleção de adicionais com valores somados ao vivo, quantidade e nível de tempero (*Suave*, *Médio* ou *Ardido*).
 - **Carrinho Lateral:** Totalizador automático e fechamento de pedido com mensagem pronta para envio no WhatsApp.
 
-### ⚙️ Painel de Gestão (Admin)
+###  Painel de Gestão (Admin)
 - **Acesso Seguro:** Área restrita por senha (padrão: `1234`), com opção de alteração de senha a qualquer momento.
 - **CRUD Completo:** Adicionar novos pratos, editar ingredientes, alterar valores e excluir itens.
 - **Processamento de Fotos com Canvas API:** Upload local com compressão automática, padronização de aspect ratio (16:10) e ajuste de enquadramento/zoom.
@@ -36,7 +36,7 @@ Aplicação desenvolvida com foco em alta conversão e agilidade de atendimento 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Frontend:** React 18
 - **Build Tool:** Vite
 - **Ícones:** Lucide React
@@ -46,7 +46,7 @@ Aplicação desenvolvida com foco em alta conversão e agilidade de atendimento 
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```bash
 Card-pio-Interativo/
@@ -68,7 +68,7 @@ Card-pio-Interativo/
 
 ---
 
-## 💻 Como Executar Localmente
+##  Como Executar Localmente
 
 ### Pré-requisitos
 - Node.js (versão 18 ou superior)
@@ -99,20 +99,17 @@ Acesse `http://localhost:5173/` no seu navegador.
 
 ---
 
-## 🔮 Próximas Evoluções Planejadas
+##  Próximas Evoluções Planejadas
 - [ ] Exportação e importação do catálogo em formato JSON.
 - [ ] Integração com backend (Node.js/Express ou Firebase/Supabase) para sincronização multiusuário.
 - [ ] Emissão de comprovante em PDF e impressão térmica de comanda.
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 Desenvolvido por **Karla Castro**  
 *Gestora de Comunidade Tech & Desenvolvedora de Software*
-
-- **LinkedIn:** [linkedin.com/in/karlaj-castro](https://www.linkedin.com/in/karlaj-castro/)
-- **GitHub:** [@karla08C](https://github.com/karla08C)
 
 ---
 
